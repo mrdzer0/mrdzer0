@@ -13,7 +13,7 @@ I am a Computer Science and have experience working in many Startups and Educati
 <p align="center"> <img src="https://profile-counter.glitch.me/vanshkapoor/count.svg" />
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=mrdzer0&show_icons=true&theme=radical" width = 400>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=mrdzer0&theme=dark" width = 450>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=mrdzer0&theme=dark" width = 425>
 
 <!--
 **mrdzer0/mrdzer0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
